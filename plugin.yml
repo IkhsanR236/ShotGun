@@ -1,0 +1,7 @@
+main: me.IcanR.Shotgun.Main
+name: ShotGun
+version: 0.0.0.1
+author: IcanR
+
+commands:
+  Shotgun:
